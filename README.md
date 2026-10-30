@@ -175,9 +175,6 @@ Terminal value represents a substantial proportion of the estimated enterprise v
 
 <img src="DCF.png" width="700">
 
-### Enterprise Value Sensitivity
-
-*Screenshot to be added.*
 
 ---
 
