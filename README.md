@@ -114,7 +114,7 @@ This highlights the sensitivity of operating profitability to sales performance,
 
 **Management priority:** Monitor sales productivity, gross margin performance and SG&A efficiency while evaluating the effectiveness of store expansion.
 
-### Budget vs. Reforecast, PVM & EBITDA Variance Bridge
+### Budget vs. Reforecast
 
 *Screenshot to be added.*
 
