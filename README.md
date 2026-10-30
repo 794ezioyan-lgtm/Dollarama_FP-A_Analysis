@@ -206,7 +206,7 @@ Interactive visuals and reporting filters support financial performance comparis
 
 ### Executive Analytics Dashboard
 
-*Screenshot to be added.*
+![Executive Analytics Dashboard](exe_dashboard.png)
 
 ### Page 2 — Financial Planning & Valuation
 
@@ -220,7 +220,7 @@ The dashboard integrates operating and valuation analysis to provide a consolida
 
 ### Planning & Valuation Dashboard
 
-*Screenshot to be added.*
+![Planning & Valuation Dashboard](planning_valuation.png)
 
 ---
 
