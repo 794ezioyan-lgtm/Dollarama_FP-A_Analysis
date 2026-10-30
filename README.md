@@ -76,7 +76,7 @@ DSO, DIO and DPO assumptions drive receivables, inventory and payables, providin
 
 *Screenshot to be added.*
 
-### Balance Sheet & Cash Flow
+### Balance Sheet 
 
 *Screenshot to be added.*
 
