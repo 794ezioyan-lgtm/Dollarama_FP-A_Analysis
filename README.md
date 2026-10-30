@@ -74,11 +74,11 @@ DSO, DIO and DPO assumptions drive receivables, inventory and payables, providin
 
 ### Income Statement
 
-*Screenshot to be added.*
+<img src="IS.png" width="700">
 
 ### Balance Sheet 
 
-*Screenshot to be added.*
+<img src="BS.png" width="700">
 
 ---
 
@@ -116,7 +116,7 @@ This highlights the sensitivity of operating profitability to sales performance,
 
 ### Budget vs. Reforecast
 
-*Screenshot to be added.*
+<img src="budget_reforecast.png" width="700">
 
 ---
 
@@ -137,7 +137,7 @@ Two-way sensitivity matrices examine the impact of changes in financial drivers 
 
 ### Scenario Comparison
 
-*Screenshot to be added.*
+<img src="scenario&sensitivity.png" width="700">
 
 
 ---
@@ -173,7 +173,7 @@ Terminal value represents a substantial proportion of the estimated enterprise v
 
 ### DCF Valuation Model
 
-*Screenshot to be added.*
+<img src="DCF.png" width="700">
 
 ### Enterprise Value Sensitivity
 
@@ -198,8 +198,7 @@ The two-page interactive Power BI dashboard consolidates operating performance, 
 Interactive visuals and reporting filters support financial performance comparisons across the model.
 
 ### Executive Analytics Dashboard
-
-![Executive Analytics Dashboard](exe_dashboard.png)
+<img src="exe_dashboard.png" width="700">
 
 ### Page 2 — Financial Planning & Valuation
 
@@ -213,7 +212,7 @@ The dashboard integrates operating and valuation analysis to provide a consolida
 
 ### Planning & Valuation Dashboard
 
-![Planning & Valuation Dashboard](planning_valuation.png)
+<img src="planning_valuation.png" width="700">
 
 ---
 
